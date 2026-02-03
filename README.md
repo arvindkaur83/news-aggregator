@@ -32,15 +32,23 @@ This project is intended to serve as both a practical news aggregation tool and 
    # On macOS/Linux:
    source venv/bin/activate
    ```
-4. **Install Dependencies:**
+   from chatGPT:
+   git clone https://github.com/YOUR_USERNAME/news-aggregator.git
+   cd news-aggregator
+   python -m venv venv
+   .\venv\Scripts\Activate.ps1
+   pip install -r requirements.txt
+   python app.py
+
+5. **Install Dependencies:**
    ```bash
    pip install -r requirements.txt
    ```
-5. **Run the Application:**
+6. **Run the Application:**
    ```bash
    python app.py
    ```
-6. **Visit:** [http://127.0.0.1:5000](http://127.0.0.1:5000) in your browser.
+7. **Visit:** [http://127.0.0.1:5000](http://127.0.0.1:5000) in your browser.
 
 ## 👤 Developer
 
