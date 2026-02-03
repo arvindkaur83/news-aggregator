@@ -33,13 +33,14 @@ This project is intended to serve as both a practical news aggregation tool and 
    source venv/bin/activate
    ```
    from chatGPT:
+    ```
    git clone https://github.com/YOUR_USERNAME/news-aggregator.git
    cd news-aggregator
    python -m venv venv
    .\venv\Scripts\Activate.ps1
    pip install -r requirements.txt
    python app.py
-
+ ```
 5. **Install Dependencies:**
    ```bash
    pip install -r requirements.txt
