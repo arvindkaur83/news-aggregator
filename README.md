@@ -34,6 +34,20 @@ This project is intended to serve as both a practical news aggregation tool and 
    ```
    from chatGPT:
     ```
+    "Install GIt on your computer, open terminal"
+    1️⃣ Install Git on Windows
+
+Go to: https://git-scm.com/downloads
+
+Click Download for Windows
+
+Run the installer with default options (important: “Add Git to PATH” must be selected)
+
+Finish installation
+
+2️⃣ Verify Git Installation
+
+Open PowerShell and type:
    git clone https://github.com/YOUR_USERNAME/news-aggregator.git
    cd news-aggregator
    python -m venv venv
