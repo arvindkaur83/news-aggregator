@@ -48,7 +48,7 @@ Finish installation
 2️⃣ Verify Git Installation
 
 Open PowerShell and type:
-   git clone https://github.com/YOUR_USERNAME/news-aggregator.git
+   git clone https://github.com/bektas-sari/news-aggregator.git
    cd news-aggregator
    python -m venv venv
    .\venv\Scripts\Activate.ps1
